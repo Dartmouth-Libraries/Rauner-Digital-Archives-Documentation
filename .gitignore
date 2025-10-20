@@ -1,0 +1,15 @@
+# All editor backup files
+*~
+\#*#
+
+# LibreOffice Lock Files
+.~lock.*
+
+# MacOS stuff
+.DS_Store
+
+# Eclipse files
+.settings
+
+# NPM files
+/node_modules
