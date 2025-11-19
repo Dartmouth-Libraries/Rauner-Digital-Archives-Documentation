@@ -1,5 +1,7 @@
 # Floppy Disk Auto-Mount Tool
 
+**Part of the Rauner Digital Archives Project**
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A robust bash script for automatically detecting, unmounting (if necessary), and safely mounting floppy disks in read-only mode on Linux systems.
