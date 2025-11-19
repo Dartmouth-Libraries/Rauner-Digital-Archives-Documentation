@@ -5,10 +5,10 @@ Welcome to the documentation repository for the Rauner Special Collections Libra
 ## The Team
 
 **Dartmouth Rauner Team:**
-- **Muhammad Moiz** - Lead Developer / Archivist
-- **Kent Randell** - College Archivist
-- **Charlie Langenbucher** - Digital Archives Assistant
-- **Sarah Bowman** - Digital Archives Assistant
+- **Muhammad Moiz** - Software Developer / Repository Maintainer
+- **Kent Randell** - Assistant Archivist for Digital Collections
+- **Charlie Langenbucher** - Processing Specialist
+- **Sarah Bowman** - Processing Specialist
 
 ## Projects
 
