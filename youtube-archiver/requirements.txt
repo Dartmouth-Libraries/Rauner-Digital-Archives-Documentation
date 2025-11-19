@@ -1,0 +1,45 @@
+# Detailed requirements.txt
+
+# Google API Client Library for Python
+# Used for accessing the YouTube Data API to extract information about videos and channels.
+google-api-python-client==2.92.0
+
+# Pandas Library
+# Required for saving extracted data to CSV files for data analysis.
+pandas==1.5.3
+
+# Requests Library
+# Used to handle HTTP requests for accessing video thumbnails.
+requests==2.31.0
+
+# Pillow (PIL Fork)
+# Required for image processing, specifically to handle video thumbnails.
+Pillow==10.0.1
+
+# ReportLab Library
+# Used for generating the PDF report of the extracted data.
+reportlab==3.6.14
+
+# OAuth2Client Library
+# Used for authentication if needed for accessing protected YouTube data.
+oauth2client==4.1.3
+
+# numpy Library (Optional but Useful)
+# Often used along with pandas for data processing.
+numpy==1.25.2
+
+# tqdm Library
+# For progress bars when handling a large number of requests.
+tqdm==4.65.0
+
+# Selenium Library
+# Required for browser automation, used to capture screenshots of YouTube videos.
+selenium==4.10.0
+
+# WebDriver Manager
+# Used to automatically manage and download the appropriate ChromeDriver version.
+webdriver-manager==3.8.6
+
+# Logging Library
+# Used for logging events during the script execution.
+# (No specific installation required, as it is part of the Python Standard Library)
