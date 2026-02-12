@@ -1,0 +1,19 @@
+# Dartmouth Vietnam Project - Oral History Transcript Summarizer
+# Requirements file with updated packages (as of February 2026)
+#
+# Install with: pip install -r requirements.txt
+
+# OpenAI SDK (used directly for better compatibility)
+openai>=1.0.0
+
+# LangChain for document loading only
+langchain-community>=0.3.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Data handling
+pandas>=2.0.0
+
+# Document loading support
+unstructured>=0.16.0
