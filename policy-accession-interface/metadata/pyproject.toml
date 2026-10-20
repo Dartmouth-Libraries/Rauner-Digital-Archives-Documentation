@@ -1,0 +1,23 @@
+[project]
+name = "metadata"
+version = "0.1.0"
+description = "A Flask application to bridge Airtable and Amazon S3 Bucket"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "boto3>=1.43.80",
+    "flask>=3.1.3",
+    "lxml>=6.1.1",
+]
+
+[project.scripts]
+metadata = "metadata:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "types-lxml>=2026.2.16",
+]
