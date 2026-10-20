@@ -32,7 +32,7 @@ A utility script for converting Microsoft Word documents (.docx) to plain text f
 ### [Sandbox (sb-project-1)](./sb-project-1)
 A development sandbox for testing and experimental features.
 
-### [Policy Accession Interface](./policy-accession-portal)
+### [Policy Accession Interface](./policy-accession-interface)
 A serverless application to expedite the policy portal accession process.
 
 ---
