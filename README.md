@@ -32,5 +32,8 @@ A utility script for converting Microsoft Word documents (.docx) to plain text f
 ### [Sandbox (sb-project-1)](./sb-project-1)
 A development sandbox for testing and experimental features.
 
+### [Policy Accession Interface](./policy-accession-portal)
+A serverless application to expedite the policy portal accession process.
+
 ---
 For more information about the Rauner Special Collections Library, please visit our [website](https://www.dartmouth.edu/library/rauner/).
