@@ -31,3 +31,15 @@ for which the user can then enter or edit metadata necessary for the accession p
 The user can trigger automation
 that sends completed entries to the `metadata` application to prepare the files for ingest
 by clicking a button on the top right corner of the interface.
+
+## TODO
+utilize pyPreservica's Upload API for OPEX package upload
+Investigate package format.
+Generate dedicated credentials for 2FA.
+
+Set up credentials using keyrings
+
+Airtable API returns an attachment URL.
+Download, package, and send off the file to Preservica.
+
+Three APIs needed: Keyrings, pyPreservica, pyAirtable.
